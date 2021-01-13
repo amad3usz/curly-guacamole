@@ -11,7 +11,7 @@ h2 {
 }
 
 
-header h2 { /* targets only h2 that are descendents header class */
+header h2 { /* targets only h2 that are descendents of header class */
     color: #CEC8FF;
 }
 
