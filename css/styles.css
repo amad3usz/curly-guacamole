@@ -37,3 +37,9 @@ header h2 { /* targets only h2 that are descendents of header class */
     background-color: #901CAD;
 
 }
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
